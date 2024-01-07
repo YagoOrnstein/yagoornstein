@@ -9,4 +9,3 @@ I am passionate about Machine Learning, Data Analysis, and Computer Vision topic
 *   🌍  I'm based in Poland, Warsaw
 *   ✉️  You can contact me at [yazo\_35@hotmail.com](mailto:yazo_35@hotmail.com)
 *   🧠  I'm learning more and improve my knowlage about Tensorflow, OpenCV, Pytorch, MySQL
--->
